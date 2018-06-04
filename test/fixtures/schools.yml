@@ -1,0 +1,28 @@
+first_school:
+  id: 1
+  name: "first school"
+  address: "25 rue foch"
+  zip_code: "69006"
+  city: "Lyon"
+  openings: "some string about openings"
+  phone: "0620123467"
+  email: "email@domain.com"
+  nb_student: 42
+  status: "Public"
+  latitude: 45.76543
+  longitude: 45.8765
+
+
+second_school:
+  id: 2
+  name: "second school"
+  address: "25 rue foch"
+  zip_code: "69006"
+  city: "Lyon"
+  openings: "some string about openings"
+  phone: "0620123467"
+  email: "email@domain.com"
+  nb_student: 55
+  status: "Private"
+  latitude: 45.76543
+  longitude: 45.8765
